@@ -1,0 +1,14 @@
+couchCookie
+___________
+
+Ronaldo Barbachano
+
+Uses a $_COOKIE to manage a secure session via couchdb. 
+
+Dependencies : 
+PHP 5.3
+couchCurl (custom version for couchCookie coming soon)
+poform
+
+
+
